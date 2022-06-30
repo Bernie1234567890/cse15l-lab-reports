@@ -1,8 +1,5 @@
+I am **Bernie Wu**
 
-**hello**
+*UCSD25*
 
-*world*
-
-~~corssout~~
-
->To be or not to be
+**I like _coding_**
